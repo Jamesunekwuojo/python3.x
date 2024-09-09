@@ -1,4 +1,4 @@
-class Calculator:
+class Calc:
     def add(x,y):
         answer = x + y
         print(answer)
@@ -12,6 +12,6 @@ class Calculator:
         print(answer)
 
     def div(x,y):
-        answer = x/y
+        answer = x / y
         print(answer) 
 
