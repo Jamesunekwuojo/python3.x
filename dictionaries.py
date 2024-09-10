@@ -17,3 +17,6 @@ print(gradeDic)
 gradeDic = {"kelly": [40,45], 'philipia': [40,56]} # pairing values
 
 print(gradeDic)
+
+print(gradeDic['kelly'])
+print(gradeDic['kelly'][0])
