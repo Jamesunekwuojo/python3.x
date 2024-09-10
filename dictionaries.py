@@ -14,4 +14,6 @@ del gradeDic['caleb'] #deleting  caleb
 
 print(gradeDic) 
 
+gradeDic = {"kelly": [40,45], 'philipia': [40,56]} # pairing values
 
+print(gradeDic)
