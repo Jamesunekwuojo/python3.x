@@ -21,3 +21,5 @@ print(x.count(4))
 x= ['dfvd', 'cvfvsv', 'sfvfv', 'wsvfvs']
 x.sort()
 print(x)
+x.reverse()
+print(x)
